@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![1000x420](https://user-images.githubusercontent.com/31854632/92416257-eb964300-f15c-11ea-8e7d-6f5ed7343e14.gif "Haoming Wang")](https://github.com/haomingw)
 <!--
 **haomingw/haomingw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
